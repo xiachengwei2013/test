@@ -9,3 +9,6 @@ I love git
 
 
 test Line one
+
+测试 checkout
+
