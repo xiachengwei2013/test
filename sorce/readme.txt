@@ -12,3 +12,4 @@ test Line one
 
 测试 checkout
 
+今天是2016-12-08日,再次尝试下git
